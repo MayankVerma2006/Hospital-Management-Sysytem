@@ -1,0 +1,32 @@
+Patient_ID,Name,Age,Gender,Department,Disease,Doctor,Admission_Date,Discharge_Date,Bill,Payment
+P001,Rahul,45,M,Cardiology,Heart Disease,Dr. Sharma,2026-09-01,2026-09-08,85000,Paid
+P002,Anjali,32,F,General,Fever,Dr. Mehta,2026-09-02,2026-09-04,12000,Paid
+P003,Vikram,61,M,Neurology,Migraine,Dr. Khan,2026-09-03,2026-09-09,54000,Pending
+P004,Priya,27,F,Orthopedic,Fracture,Dr. Singh,2026-09-04,2026-09-15,67000,Paid
+P005,Aman,39,M,Cardiology,BP,Dr. Sharma,2026-09-05,2026-09-08,32000,Paid
+P006,Neha,29,F,General,Fever,Dr. Mehta,2026-09-05,2026-09-07,15000,Paid
+P007,Rohit,52,M,Dermatology,Skin Allergy,Dr. Verma,2026-09-06,2026-09-10,28000,Pending
+P008,Sneha,41,F,Neurology,Migraine,Dr. Khan,2026-09-07,2026-09-12,47000,Paid
+P009,Riya,35,F,Cardiology,Heart Disease,Dr. Sharma,2026-09-08,2026-09-16,84000,Paid
+P010,Karan,24,M,General,Asthma,Dr. Mehta,2026-09-09,2026-09-12,23000,Pending
+P011,Simran,48,F,Orthopedic,Fracture,Dr. Singh,2026-09-10,2026-09-20,76000,Pending
+P012,Mohit,56,M,Cardiology,Diabetes,Dr. Sharma,2026-09-10,2026-09-14,51000,Paid
+P013,Pooja,31,F,General,Diabetes,Dr. Mehta,2026-09-11,2026-09-15,26000,Paid
+P014,Arjun,44,M,Neurology,Stroke,Dr. Khan,2026-09-11,2026-09-22,125000,Paid
+P015,Kavya,22,F,Dermatology,Skin Allergy,Dr. Verma,2026-09-12,2026-09-14,18000,Paid
+P016,Suresh,67,M,Cardiology,Heart Disease,Dr. Sharma,2026-09-12,2026-09-21,98000,Pending
+P017,Nisha,38,F,General,Fever,Dr. Mehta,2026-09-13,2026-09-16,14000,Paid
+P018,Deepak,50,M,Orthopedic,Arthritis,Dr. Singh,2026-09-13,2026-09-19,43000,Paid
+P019,Simran,30,F,Orthopedic,Fracture,Dr. Singh,2026-09-14,2026-09-23,72000,Paid
+P020,Manish,46,M,General,Diabetes,Dr. Mehta,2026-09-14,2026-09-18,29000,Pending
+P021,Isha,26,F,Dermatology,Skin Allergy,Dr. Verma,2026-09-15,2026-09-18,21000,Paid
+P022,Vivek,59,M,Neurology,Migraine,Dr. Khan,2026-09-15,2026-09-20,56000,Paid
+P023,Tanya,34,F,Cardiology,BP,Dr. Sharma,2026-09-16,2026-09-19,38000,Paid
+P024,Ramesh,63,M,General,Asthma,Dr. Mehta,2026-09-16,2026-09-21,31000,Paid
+P025,Mohit,42,M,Cardiology,Heart Disease,Dr. Sharma,2026-09-17,2026-09-25,91000,Pending
+P026,Aarti,28,F,Orthopedic,Arthritis,Dr. Singh,2026-09-18,2026-09-23,45000,Paid
+P027,Yash,36,M,General,Fever,Dr. Mehta,2026-09-18,2026-09-20,13000,Paid
+P028,Meena,55,F,Neurology,Stroke,Dr. Khan,2026-09-19,2026-09-28,110000,Pending
+P029,Varun,47,M,Dermatology,Skin Allergy,Dr. Verma,2026-09-20,2026-09-24,25000,Paid
+P030,Komal,33,F,General,Fever,Dr. Mehta,2026-09-21,2026-09-23,16000,Paid
+p0987,mkvvk,12,ma,a,a,a,a,a,a,a
